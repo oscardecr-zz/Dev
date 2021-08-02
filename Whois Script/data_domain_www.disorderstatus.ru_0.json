@@ -1,0 +1,45 @@
+{"WhoisRecord": {
+  "domainName": "disorderstatus.ru",
+  "parseCode": 8,
+  "audit": {
+    "createdDate": "2021-08-01 19:21:29 UTC",
+    "updatedDate": "2021-08-01 19:21:29 UTC"
+  },
+  "registrarName": "101DOMAIN-RU",
+  "registrarIANAID": "1011",
+  "registryData": {
+    "createdDate": "2019-06-04T16:18:19Z",
+    "expiresDate": "2022-06-04T16:18:19Z",
+    "registrant": {
+      "organization": "Global Internet Telemetry Measurement Collective"
+    },
+    "domainName": "DISORDERSTATUS.RU",
+    "nameServers": {
+      "rawText": "ns1.csof.net\u000ans2.csof.net\u000ans3.csof.net\u000ans4.csof.net\u000a",
+      "hostNames": [
+        "ns1.csof.net",
+        "ns2.csof.net",
+        "ns3.csof.net",
+        "ns4.csof.net"
+      ],
+      "ips": [
+      ]
+    },
+    "status": "REGISTERED, DELEGATED, UNVERIFIED",
+    "rawText": "% By submitting a query to RIPN's Whois Service\u000a% you agree to abide by the following terms of use:\u000a% http://www.ripn.net/about/servpol.html#3.2 (in Russian) \u000a% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\u000a\u000adomain:        DISORDERSTATUS.RU\u000anserver:       ns1.csof.net.\u000anserver:       ns2.csof.net.\u000anserver:       ns3.csof.net.\u000anserver:       ns4.csof.net.\u000astate:         REGISTERED, DELEGATED, UNVERIFIED\u000aorg:           Global Internet Telemetry Measurement Collective\u000aregistrar:     101DOMAIN-RU\u000aadmin-contact: https://www.101domain.ru/forma-svyazi-s-administratorom-domena.htm\u000acreated:       2019-06-04T16:18:19Z\u000apaid-till:     2022-06-04T16:18:19Z\u000afree-date:     2022-07-05\u000asource:        TCI\u000a\u000aLast updated on 2021-08-01T19:16:30Z",
+    "parseCode": 219,
+    "header": "% By submitting a query to RIPN's Whois Service\u000a% you agree to abide by the following terms of use:\u000a% http://www.ripn.net/about/servpol.html#3.2 (in Russian)\u000a% http://www.ripn.net/about/en/servpol.html#3.2 (in English).\u000a% By submitting a query to RIPN's Whois Service\u000a% you agree to abide by the following terms of use:\u000a% http://www.ripn.net/about/servpol.html#3.2 (in Russian)\u000a% http://www.ripn.net/about/en/servpol.html#3.2 (in English).",
+    "strippedText": "\u000adomain:        DISORDERSTATUS.RU\u000anserver:       ns1.csof.net.\u000anserver:       ns2.csof.net.\u000anserver:       ns3.csof.net.\u000anserver:       ns4.csof.net.\u000astate:         REGISTERED, DELEGATED, UNVERIFIED\u000aorg:           Global Internet Telemetry Measurement Collective\u000aregistrar:     101DOMAIN-RU\u000aadmin-contact: https://www.101domain.ru/forma-svyazi-s-administratorom-domena.htm\u000acreated:       2019-06-04T16:18:19Z\u000apaid-till:     2022-06-04T16:18:19Z\u000afree-date:     2022-07-05\u000asource:        TCI\u000a\u000aLast updated on 2021-08-01T19:16:30Z\u000a\u000adomain:        DISORDERSTATUS.RU\u000anserver:       ns1.csof.net.\u000anserver:       ns2.csof.net.\u000anserver:       ns3.csof.net.\u000anserver:       ns4.csof.net.\u000astate:         REGISTERED, DELEGATED, UNVERIFIED\u000aorg:           Global Internet Telemetry Measurement Collective\u000aregistrar:     101DOMAIN-RU\u000aadmin-contact: https://www.101domain.ru/forma-svyazi-s-administratorom-domena.htm\u000acreated:       2019-06-04T16:18:19Z\u000apaid-till:     2022-06-04T16:18:19Z\u000afree-date:     2022-07-05\u000asource:        TCI\u000a\u000aLast updated on 2021-08-01T19:16:30Z",
+    "audit": {
+      "createdDate": "2021-08-01 19:21:29 UTC",
+      "updatedDate": "2021-08-01 19:21:29 UTC"
+    },
+    "registrarName": "101DOMAIN-RU",
+    "registrarIANAID": "1011",
+    "createdDateNormalized": "2019-06-04 16:18:19 UTC",
+    "expiresDateNormalized": "2022-06-04 16:18:19 UTC",
+    "whoisServer": "whois.ripn.net"
+  },
+  "domainNameExt": ".ru",
+  "estimatedDomainAge": 790
+}}
